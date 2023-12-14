@@ -1,0 +1,7 @@
+.timer {
+    display: none;
+}
+
+.timerRunning {
+    background: green;
+}
